@@ -44,3 +44,4 @@ CODEOWNER 관리하고 적극적인 코드 리뷰를 통해 코드를 개선해�
 
 * [2019 컨테이너 CI/CD를 하나의 Jenkins pipeline으로 관리하기](https://if.kakao.com/2019/program?sessionId=d6ed5fca-492f-4bb2-bc0b-51d4d42b35c9)
 * [2020 카카오페이 DevOps의 통합과 자동화에 관한 이야기](https://if.kakao.com/session/86)
+* [2021 Kubernetes Cluster 확장 어디까지 알아보고 오셨어요?](https://if.kakao.com/session/119)
